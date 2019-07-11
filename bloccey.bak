@@ -67,7 +67,7 @@ U 1 1 5D2790BA
 P 3650 4050
 F 0 "R4" V 3454 4050 50  0000 C CNN
 F 1 "10k" V 3545 4050 50  0000 C CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3650 4050 50  0001 C CNN
+F 2 "random-keyboard-parts:PushButton_6x6mm_TH_Pretty" H 3650 4050 50  0001 C CNN
 F 3 "~" H 3650 4050 50  0001 C CNN
 	1    3650 4050
 	0    1    1    0   
@@ -93,7 +93,7 @@ U 1 1 5D27B9CD
 P 1750 2950
 F 0 "R2" V 1554 2950 50  0000 C CNN
 F 1 "22" V 1645 2950 50  0000 C CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1750 2950 50  0001 C CNN
+F 2 "random-keyboard-parts:PushButton_6x6mm_TH_Pretty" H 1750 2950 50  0001 C CNN
 F 3 "~" H 1750 2950 50  0001 C CNN
 	1    1750 2950
 	0    1    1    0   
@@ -104,7 +104,7 @@ U 1 1 5D27C0F8
 P 1450 3050
 F 0 "R3" V 1254 3050 50  0000 C CNN
 F 1 "22" V 1345 3050 50  0000 C CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1450 3050 50  0001 C CNN
+F 2 "random-keyboard-parts:PushButton_6x6mm_TH_Pretty" H 1450 3050 50  0001 C CNN
 F 3 "~" H 1450 3050 50  0001 C CNN
 	1    1450 3050
 	0    1    1    0   
@@ -363,7 +363,7 @@ U 1 1 5D2A029E
 P 2150 1450
 F 0 "R1" H 2209 1496 50  0000 L CNN
 F 1 "10k" H 2209 1405 50  0000 L CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2150 1450 50  0001 C CNN
+F 2 "random-keyboard-parts:PushButton_6x6mm_TH_Pretty" H 2150 1450 50  0001 C CNN
 F 3 "~" H 2150 1450 50  0001 C CNN
 	1    2150 1450
 	1    0    0    -1  
