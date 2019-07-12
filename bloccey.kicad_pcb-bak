@@ -614,7 +614,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F45B)
-    (at 238 74 15)
+    (at 251 62 15)
     (path /5D379CAC)
     (fp_text reference SW64 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -636,7 +636,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F44E)
-    (at 230 74 15)
+    (at 241 62 15)
     (path /5D36F7C3)
     (fp_text reference SW63 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -658,7 +658,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F441)
-    (at 222 74 15)
+    (at 231 62 15)
     (path /5D36F7C9)
     (fp_text reference SW62 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -680,7 +680,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F434)
-    (at 214 74 15)
+    (at 251 38 15)
     (path /5D36F7CF)
     (fp_text reference SW61 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -702,7 +702,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F427)
-    (at 206 74 15)
+    (at 249 30 15)
     (path /5D37B032)
     (fp_text reference SW60 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -724,7 +724,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F41A)
-    (at 198 74 15)
+    (at 210 62 15)
     (path /5D36F7DB)
     (fp_text reference SW59 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -746,7 +746,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F40D)
-    (at 182 74 15)
+    (at 194 62 15)
     (path /5D36F7E7)
     (fp_text reference SW58 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -768,7 +768,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F400)
-    (at 166 74 15)
+    (at 175 62 15)
     (path /5D36F7FF)
     (fp_text reference SW57 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -790,7 +790,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F3F3)
-    (at 158 74 15)
+    (at 165 62 15)
     (path /5D36F7ED)
     (fp_text reference SW56 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -812,7 +812,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F3E6)
-    (at 150 74 15)
+    (at 155 62 15)
     (path /5D36F7F3)
     (fp_text reference SW55 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -834,7 +834,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F3D9)
-    (at 133 76 15)
+    (at 145 62 15)
     (path /5D36F7F9)
     (fp_text reference SW54 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -856,7 +856,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F3CC)
-    (at 250 54 15)
+    (at 251 54 15)
     (path /5D379CA6)
     (fp_text reference SW53 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1142,7 +1142,7 @@
   )
 
   (module random-keyboard-parts:PushButton_6x6mm_TH_Pretty (layer F.Cu) (tedit 5B363E90) (tstamp 5D26F323)
-    (at 248 46 15)
+    (at 249 46 15)
     (path /5D379CA0)
     (fp_text reference SW40 (at 0 4.064 15) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
